@@ -1,1 +1,1 @@
-# courses-manager-issues
+# Courses Manager Issues
